@@ -1,0 +1,5 @@
+C:\Users\dpnal\source\repos\danielnales\StocksBuilder\StocksBuilder\obj\Debug\net9.0\StocksBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpnal\source\repos\danielnales\StocksBuilder\StocksBuilder\obj\Debug\net9.0\StocksBuilder.AssemblyInfoInputs.cache
+C:\Users\dpnal\source\repos\danielnales\StocksBuilder\StocksBuilder\obj\Debug\net9.0\StocksBuilder.AssemblyInfo.cs
+C:\Users\dpnal\source\repos\danielnales\StocksBuilder\StocksBuilder\obj\Debug\net9.0\StocksBuilder.csproj.CoreCompileInputs.cache
+C:\Users\dpnal\source\repos\danielnales\StocksBuilder\StocksBuilder\obj\Debug\net9.0\StocksBuilder.sourcelink.json
